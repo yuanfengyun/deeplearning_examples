@@ -1,2 +1,2 @@
-# deeplearning_examples
-深度学习练习
+# 练手
+机器学习、深度学习
